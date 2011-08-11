@@ -5,7 +5,7 @@ module Hamljs
 
       escape! source
 
-      "HAML('#{source}')"
+      "Haml('#{source}')"
     end
 
     protected
