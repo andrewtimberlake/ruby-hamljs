@@ -1,5 +1,5 @@
 require 'tilt'
-require 'engine'
+require 'hamljs/engine'
 
 module Hamljs
   class SprocketsTemplate < Tilt::Template
