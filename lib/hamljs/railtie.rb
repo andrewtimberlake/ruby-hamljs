@@ -1,3 +1,5 @@
+require 'sprockets'
+require 'sprockets/engines'
 require 'hamljs/sprockets_template'
 
 module Hamljs
